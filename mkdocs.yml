@@ -17,6 +17,7 @@ copyright: 'Copyright &copy; 2016 - 2026 OI Wiki Team'
 nav:
   - 简介:
     - Getting Started: index.md
+  - 01-数据库设计: 01-数据库设计.md
     
 
 # Theme
