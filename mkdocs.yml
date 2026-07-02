@@ -15,9 +15,13 @@ copyright: 'Copyright &copy; 2016 - 2026 OI Wiki Team'
 
 # Contents
 nav:
-  - 简介:
-    - Getting Started: index.md
+  - Getting Started: index.md
   - 01-数据库设计: 01-数据库设计.md
+  - 02-命途系统: 02-命途系统.md
+  - 03-副本与AI交互: 03-副本与AI交互.md
+  - 04-管理员后台: 04-管理员后台.md
+  - 05-部署与运维: 05-部署与运维.md
+  - 06-开发与扩展: 06-开发与扩展.md
     
 
 # Theme
